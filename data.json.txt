@@ -1,0 +1,70 @@
+{
+  "predictions": [
+    {
+      "id": "1",
+      "user_email": "bhavishreddy001@gmail.com",
+      "timestamp": "2026-02-04T23:40:05.448288",
+      "input": {
+        "latitude": 26.913958,
+        "longitude": 75.794678,
+        "crop_name": "Bajra",
+        "field_size_hectares": 100,
+        "planting_date": "2026-01-01",
+        "irrigation_type": "Sprinkler",
+        "previous_crop": "Wheat",
+        "farming_experience": "Intermediate",
+        "budget_level": "Medium"
+      },
+      "location": {
+        "latitude": 26.913958,
+        "longitude": 75.794678,
+        "address": "Jaipur, Rajasthan, India",
+        "city": "Jaipur",
+        "region": "Rajasthan",
+        "country": "India",
+        "country_code": "IN"
+      },
+      "soil": {
+        "soil_type": "Sandy Loam",
+        "ph_level": 8.1,
+        "nitrogen": 185.5,
+        "phosphorus": 22.4,
+        "potassium": 315,
+        "organic_matter": 0.65
+      }
+    },
+    {
+      "id": "2",
+      "user_email": "dhanyancdhanyaa@gmail.com",
+      "timestamp": "2026-02-05T00:44:15.975986",
+      "input": {
+        "latitude": 31.026312,
+        "longitude": 77.189941,
+        "crop_name": "Apple",
+        "field_size_hectares": 5,
+        "planting_date": "2010-12-06",
+        "irrigation_type": "Flood",
+        "previous_crop": "Oranges",
+        "farming_experience": "Intermediate",
+        "budget_level": "Premium"
+      },
+      "location": {
+        "latitude": 31.026312,
+        "longitude": 77.189941,
+        "address": "Shimla, Himachal Pradesh, India",
+        "city": "Shimla",
+        "region": "Himachal Pradesh",
+        "country": "India",
+        "country_code": "IN"
+      },
+      "soil": {
+        "soil_type": "Loamy",
+        "ph_level": 6.2,
+        "nitrogen": 315.5,
+        "phosphorus": 24.8,
+        "potassium": 285,
+        "organic_matter": 3.4
+      }
+    }
+  ]
+}
